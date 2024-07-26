@@ -1,0 +1,9 @@
+{
+    "name": "@next-nest-repo/root",
+    "description": "",
+    "private": true,
+    "workspaces": [
+        "packages/backend",
+        "packages/frontend"
+    ]
+}
